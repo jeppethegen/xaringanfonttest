@@ -25,7 +25,7 @@
 
 :root {
   /* Fonts */
-  --text-font-family: 'Noto Sans';
+  --text-font-family: 'AUPassataRegular';
   --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
@@ -233,6 +233,14 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
     top: 0 !important;
     left: 0 !important;
   }
+}
+
+@font-face {
+    font-family: AUPassataRegular;
+    src: url("https://fonts.au.dk/fonts/aupassata_rg-webfont.eot");
+    src: url("https://fonts.au.dk/fonts/aupassata_rg-webfont.eot?#iefix") format("embedded-opentype"), url("https://fonts.au.dk/fonts/aupassata_rg-webfont.woff2") format("woff2"), url("https://fonts.au.dk/fonts/aupassata_rg-webfont.woff") format("woff"), url("https://fonts.au.dk/fonts/aupassata_rg-webfont.ttf") format("truetype"), url("https://fonts.au.dk/fonts/aupassata_rg-webfont.svg#AUPassataRegular") format("svg");
+    font-weight: 400;
+    font-style:normal
 }
 
 
