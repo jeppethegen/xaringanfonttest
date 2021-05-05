@@ -44,7 +44,7 @@
 
   /* Colors */
   --text-color: #657b83;
-  --header-color: #dc322f;
+  --header-color: #003d85;
   --background-color: #e5e3df;
   --link-color: #b58900;
   --text-bold-color: #d33682;
@@ -53,7 +53,7 @@
   --inverse-background-color: #002b36;
   --inverse-header-color: #fdf6e3;
   --inverse-link-color: #b58900;
-  --title-slide-background-color: #dc322f;
+  --title-slide-background-color: #003d85;
   --title-slide-text-color: #fdf6e3;
   --header-background-color: #003d85;
   --header-background-text-color: #fdf6e3;
